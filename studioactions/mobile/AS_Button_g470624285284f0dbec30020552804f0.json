@@ -1,0 +1,27 @@
+{
+    "AS_Button_g470624285284f0dbec30020552804f0": {
+        "id": "AS_Button_g470624285284f0dbec30020552804f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bee53fef066740a08d7e2f946b55fbf9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f38ccce206754cb28f58fb8515f79e69",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "processLogin",
+            "display": "processLogin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

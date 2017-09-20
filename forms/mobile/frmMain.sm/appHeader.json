@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": "100%",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s757199f9491414889d4d251559576f8",
+    "_top_": "0dp",
+    "_width_": "100%",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "appHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "jf1a0c9ca304414b93408424466b9e3f",
+                "srcKUID": "a229c7110b20459d819138c7dddf972d",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxHeader": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ae8bb150e4a24b0d8aa57a9fe8c41ef9",
+                "srcKUID": "e0d5d5544df84db59a65c738d7512352",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgIKost": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b20ed37dbc574588b47bf3f3671caef1",
+                "srcKUID": "d1dec35a9130442dbb9178b38e29ab87",
+                "wType": "Image"
+            }
+        },
+        "lblPrimary": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c1cc304aa4634838a2315f5c7381f876",
+                "srcKUID": "gdf9a47620b14cd39493a0f7b404222a",
+                "wType": "Label"
+            }
+        }
+    },
+    "id": "appHeader",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "jf1a0c9ca304414b93408424466b9e3f",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmMain",
+    "pf": "frmMain",
+    "sourceUserWidget": "a229c7110b20459d819138c7dddf972d",
+    "wType": "UserWidgetInstance"
+}
